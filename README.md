@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Stoil — Full-Stack IT Consultant and after-hours vibe coder from Sofia 🇧🇬 working all over Europe 🇪🇺. 
-On GitHub I build automation tools, civic tech, and productivity scripts — mostly for fun and for good.
+I'm Stoil — full-stack IT consultant and after-hours vibe coder from Bulgaria 🇧🇬 working all over Europe 🇪🇺. 
+On GitHub I play around with agentic engineering, automation tools, civic tech, and productivity scripts — mostly for fun or for the greater good.
 
 - 💬 **Ask me about:**
   - **Google Workspace management and automation** — Admin Console, Apps Script, Drive, Sheets
