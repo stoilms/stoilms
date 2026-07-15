@@ -31,8 +31,9 @@ On GitHub I play around with agentic engineering, automation tools, civic tech, 
 
 | Project | Description |
 |---|---|
-| ⌨️ [symbol-key](https://github.com/stoilms/symbol-key) | AutoHotkey script for typing special symbols (currencies, arrows, etc.) with ease |
-| 📖 [odyssey-ebook-michael-caine-elevenlabs-narration](https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration) | Audiobook-style ebook of Homer's Odyssey with Michael Caine–style narration generated via ElevenLabs |
-| 🔋 [Hibernate-Fixer](https://github.com/stoilms/Hibernate-Fixer) | PowerShell script that diagnoses Windows hibernation blockers and fixes them automatically |
-| ☁️ [cloudflare-cache-purge](https://github.com/stoilms/cloudflare-cache-purge) | One-command PowerShell script to purge your Cloudflare zone cache |
-| 📤 [zoom-registrant-export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
+| ⌨️ [Symbol Key](https://github.com/stoilms/symbol-key) | AutoHotkey script for typing special symbols (currencies, arrows, etc.) with ease |
+| 🖱️ [ClickerOverride Improved](https://github.com/stoilms/ClickerOverride-Improved) | AutoHotkey script that redirects presentation clicker buttons to any background window (PowerPoint, Pympress, etc.) |
+| 📖 [Homer's *The Odyssey* companion ebook](https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration) | Audiobook-style ebook of Homer's Odyssey with Michael Caine–style narration generated via ElevenLabs |
+| 🔋 [Hibernate Fixer](https://github.com/stoilms/Hibernate-Fixer) | PowerShell script that diagnoses Windows hibernation blockers and fixes them automatically |
+| ☁️ [Cloudflare Cache Purge](https://github.com/stoilms/cloudflare-cache-purge) | One-command PowerShell script to purge your Cloudflare zone cache |
+| 📤 [Zoom Registrant Export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
