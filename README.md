@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Stoil — full-stack IT consultant and after-hours vibe coder from Bulgaria 🇧🇬 working all over Europe 🇪🇺. 
+I'm Stoil, a full-stack IT consultant from Bulgaria 🇧🇬 working all over Europe 🇪🇺. 
 On GitHub I play around with agentic engineering, automation tools, civic tech, and productivity scripts — mostly for fun or for the greater good.
 
 - 💬 **Ask me about:**
