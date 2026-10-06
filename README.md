@@ -3,10 +3,13 @@
 I'm Stoil, a full-stack IT consultant from Bulgaria 🇧🇬 working all over Europe 🇪🇺. 
 On GitHub I play around with agentic engineering, automation tools, civic tech, and productivity scripts - mostly for fun or for the greater good.
 
+🆕 **Latest:** [Size on disk column in Explorer details](https://github.com/stoilms/windhawk-explorer-size-on-disk-column) - my first [Windhawk](https://windhawk.net/) mod, now submitted to the Windhawk mod catalogue.
+
 ### 🗂️ Projects
 
 | Project | Description |
 |---|---|
+| 💾 ['Size on disk' column in Windows Explorer](https://github.com/stoilms/windhawk-explorer-size-on-disk-column) 🆕 | Windhawk mod that adds a "Size on disk" column to File Explorer's details view for files and folders, matching the Properties dialog. Folder sizes are calculated in the background, and OneDrive files are never downloaded |
 | ⌨️ [Symbol Key](https://github.com/stoilms/symbol-key) | AutoHotkey script for typing special symbols (currencies, arrows, etc.) with ease |
 | 🖱️ [ClickerOverride Improved](https://github.com/stoilms/ClickerOverride-Improved) | AutoHotkey script that redirects presentation clicker buttons to any background window (PowerPoint, Pympress, etc.) |
 | 📖 [Homer's *The Odyssey* companion ebook](https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration) | Audiobook-style ebook of Homer's Odyssey with Michael Caine–style narration generated via ElevenLabs |
