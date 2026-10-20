@@ -3,28 +3,24 @@
 I'm Stoil, a full-stack IT consultant from Bulgaria 🇧🇬 working all over Europe 🇪🇺. 
 On GitHub I play around with agentic engineering, automation tools, civic tech, and productivity scripts - mostly for fun or for the greater good.
 
-🆕 **Latest:** [Size on disk column in Explorer details](https://github.com/stoilms/windhawk-explorer-size-on-disk-column) - my first [Windhawk](https://windhawk.net/) mod, now submitted to the Windhawk mod catalogue.
-
 ### 🗂️ Projects
 
 | Project | Description |
 |---|---|
-| 💾 ['Size on disk' column in Windows Explorer](https://github.com/stoilms/windhawk-explorer-size-on-disk-column) 🆕 | Windhawk mod that adds a "Size on disk" column to File Explorer's details view for files and folders, matching the Properties dialog. Folder sizes are calculated in the background, and OneDrive files are never downloaded |
+| 💾 ['Size on disk' column in Windows Explorer](https://github.com/stoilms/windhawk-explorer-size-on-disk-column) | Windhawk mod that adds a "Size on disk" column to File Explorer's details view for files and folders, matching the Properties dialog. Folder sizes are calculated in the background, and OneDrive files are never downloaded. 🆕 Now part of the [official Windhawk online mods catalog](https://github.com/ramensoftware/windhawk-mods) |
 | ⌨️ [Symbol Key](https://github.com/stoilms/symbol-key) | AutoHotkey script for typing special symbols (currencies, arrows, etc.) with ease |
 | 🖱️ [ClickerOverride Improved](https://github.com/stoilms/ClickerOverride-Improved) | AutoHotkey script that redirects presentation clicker buttons to any background window (PowerPoint, Pympress, etc.) |
 | 📖 [Homer's *The Odyssey* companion ebook](https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration) | Audiobook-style ebook of Homer's Odyssey with Michael Caine–style narration generated via ElevenLabs |
 | 🔋 [Hibernate Fixer](https://github.com/stoilms/Hibernate-Fixer) | PowerShell script that diagnoses Windows hibernation blockers and fixes them automatically |
 | ☁️ [Cloudflare Cache Purge](https://github.com/stoilms/cloudflare-cache-purge) | One-command PowerShell script to purge your Cloudflare zone cache |
-| 📤 [Zoom Registrant Export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
-
-### 🧩 Smaller projects
 
 <details>
-<summary>Show smaller projects</summary>
+<summary>🧩 Other projects</summary>
 
 | Project | Description |
 |---|---|
 | ⏱️ [Chrome Profile Title Suffix](https://github.com/stoilms/chrome-profile-title-suffix) | Chrome extension that adds a per-profile suffix to page titles, so time trackers like Toggl can tell your work and personal Chrome profiles apart by window title |
+| 📤 [Zoom Registrant Export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
 
 </details>
 
@@ -45,3 +41,4 @@ On GitHub I play around with agentic engineering, automation tools, civic tech, 
 - ⚙️ My Principles
   - Good documentation is part of the work, not an afterthought
   - Polish is appreciated - always put in the extra effort if possible
+  - AI can be useful - just use it wisely
