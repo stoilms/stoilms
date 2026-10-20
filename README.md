@@ -17,6 +17,17 @@ On GitHub I play around with agentic engineering, automation tools, civic tech, 
 | ☁️ [Cloudflare Cache Purge](https://github.com/stoilms/cloudflare-cache-purge) | One-command PowerShell script to purge your Cloudflare zone cache |
 | 📤 [Zoom Registrant Export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
 
+### 🧩 Smaller projects
+
+<details>
+<summary>Show smaller projects</summary>
+
+| Project | Description |
+|---|---|
+| ⏱️ [Chrome Profile Title Suffix](https://github.com/stoilms/chrome-profile-title-suffix) | Chrome extension that adds a per-profile suffix to page titles, so time trackers like Toggl can tell your work and personal Chrome profiles apart by window title |
+
+</details>
+
 ### Ask me about
   - **Google Workspace management and automation** - Admin Console, Apps Script, Drive, Sheets
   - **Microsoft 365 management and automation** - Admin Center, Teams, Exchange, SharePoint, OneDrive
