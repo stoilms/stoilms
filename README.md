@@ -19,6 +19,7 @@ On GitHub I play around with agentic engineering, automation tools, civic tech, 
 
 | Project | Description |
 |---|---|
+| 📋 [Airtable Export Improved](https://github.com/stoilms/airtable-export-improved) | Fork of simonw/airtable-export that exports bases to YAML, JSON, Excel, and SQLite and downloads original attachment files |
 | 🪟 [Window Resize Lock](https://github.com/stoilms/WindowResizeLock) | AutoHotkey script that locks selected windows so edge-dragging and the maximize button no longer change their size |
 | ⏱️ [Chrome Profile Title Suffix](https://github.com/stoilms/chrome-profile-title-suffix) | Chrome extension that adds a per-profile suffix to page titles, so time trackers like Toggl can tell your work and personal Chrome profiles apart by window title |
 | 📤 [Zoom Registrant Export](https://github.com/stoilms/zoom-registrant-export) | Export all Zoom meeting registrants with personal join links to CSV via the Zoom API |
